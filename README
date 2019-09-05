@@ -1,0 +1,12 @@
+### Image Sorter
+
+A quick interface for sorting a folder of images into two other folders.
+
+You will need the Python Imaging Library to run this:
+`pip install pillow`
+
+To run:
+`python image_sorter.py in_dir left_dir right_dir`
+
+Once the image is shown, press the left arrow key to move it into left_dir, or
+the right arrow key to move it into right_dir.
